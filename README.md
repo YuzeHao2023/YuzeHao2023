@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuzehao2023&label=Profile%20views&color=0e75b6&style=flat" alt="yuzehao2023" /> </p>
 
-- 💬 Ask me about **anything**
+- 💬 Ask me  **anything**
 
-- ⚡ Fun fact **Marathon**
+- ⚡ Fun fact **Marathon and Piano**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
