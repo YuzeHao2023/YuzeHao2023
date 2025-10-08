@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Halamji</h1>
-<h3 align="center">A passionate AI4S developer from Inner Mongolia</h3>
+<h3 align="center">A passionate AI4S developer and Chemical Engineer from Inner Mongolia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuzehao2023&label=Profile%20views&color=0e75b6&style=flat" alt="yuzehao2023" /> </p>
 
