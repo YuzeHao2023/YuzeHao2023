@@ -5,7 +5,7 @@
 
 - 💬 Ask me  **anything**
 
-- ⚡ Fun fact **Marathon and Piano**
+- ⚡ Fun fact **I love Marathon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
