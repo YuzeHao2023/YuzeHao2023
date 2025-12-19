@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Halamji</h1>
+
+---
+
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=89CFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile;Engineer;Python+|+Ruby+|+etc;AI+%26+Development+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
   </a>
 </h3>
+
+---
+
 <h3 align="center">A passionate AI4S developer and Chemical Engineer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuzehao2023&label=Profile%20views&color=0e75b6&style=flat" alt="yuzehao2023" /> </p>
@@ -16,6 +22,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuzeHao2023&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuzeHao2023&theme=dark)
+
+---
 
 <h3 align="left"></h3>
 <p align="left">
@@ -149,7 +157,8 @@
 
 </div>
 
-
+---
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="YuzeHao2023's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=YuzeHao2023&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+---
