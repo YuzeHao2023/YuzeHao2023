@@ -1,3 +1,6 @@
+<a href="#"><img align="center" alt="Welcome" width="100%" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+
+
 <h1 align="center">Hi 👋, I'm Halamji</h1>
 
 ---
@@ -188,3 +191,9 @@
 ```
 
 ---
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;I'm+Always+Open+to+Collaboration!;Keep+Learning,+Keep+Building!">
+</h3>
+
+<a href="#"><img align="center" alt="Finish" width="100%" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
