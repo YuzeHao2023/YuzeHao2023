@@ -1,10 +1,6 @@
 <a href="#"><img align="center" alt="Welcome" width="100%" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
 
-<h1 align="center">Hi 👋, I'm Halamji</h1>
-
----
-
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=89CFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile;Engineer;Python+|+Ruby+|+etc;AI+%26+Development+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
@@ -12,6 +8,10 @@
 </h3>
 
 ---
+
+<h1 align="center">Hi 👋, I'm Halamji</h1>
+
+
 
 <h3 align="center">A passionate AI4S developer and Chemical Engineer from China</h3>
 
@@ -159,6 +159,30 @@
 
 
 </div>
+
+---
+
+###
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+###
+
+<div style="text-align: center;">
+  <img src ="https://githubreadme-a6hp.vercel.app/api?username=YuzeHao2023&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" height="124" alt="stats graph" />
+  <img src="https://githubreadme-a6hp.vercel.app/api/top-langs/?username=YuzeHao2023&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true" height="124" alt="languages graph" />
+  <img src="https://streak-stats.vercel.app/?user=YuzeHao2023&theme=gruvbox&hide_border=true" height="124" alt="snorlark" />
+</div>
+
+###
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+
+###
+
+  <img src="https://github-trophies.vercel.app/?username=YuzeHao2023&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&theme=gruvbox&no-frame=true&row=1&column=8" alt="trophy" />
+  
+###
 
 ---
 
