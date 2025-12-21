@@ -58,7 +58,7 @@ jobs:
 
         env:
 
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ PAT_TOKEN }}
 
           
 
@@ -80,4 +80,4 @@ jobs:
 
         env:
 
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ PAT_TOKEN }}
