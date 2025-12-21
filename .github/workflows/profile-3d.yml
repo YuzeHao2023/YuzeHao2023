@@ -11,14 +11,23 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
+        # 关键修改1：配置 checkout 时使用 PAT Token，确保推送权限
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          persist-credentials: true
+      
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
+          # 生成 3D 贡献图仍可使用默认 GITHUB_TOKEN
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "Generated 3D-Contrib "
-          git push
+          # 避免无文件变更时提交失败
+          git diff --quiet && git diff --staged --quiet || git commit -m "Generated 3D-Contrib"
+          # 关键修改2：使用 PAT Token 推送代码
+          git push https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
