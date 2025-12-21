@@ -28,6 +28,20 @@
 
 ---
 
+<p align="center">
+	<table>
+		<tr>
+		<td align="center">
+		    <picture>
+		    <source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/YuzeHao2023/YuzeHao2023/profile-3d-contrib/profile-night-green.svg?clear=1" />
+		    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YuzeHao2023/YuzeHao2023/profile-3d-contrib/profile-season-animate.svg?clear=1" />
+		    <img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/YuzeHao2023/YuzeHao2023/profile-3d-contrib/profile-season-animate.svg?clear=1" />
+		    </picture>
+		</td>
+		</tr>
+	</table>
+</p>
+
 <h3 align="left"></h3>
 <p align="left">
 </p>
